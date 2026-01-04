@@ -30,6 +30,14 @@ It helps users write, save, edit and manage personal notes easily – completely
 - Perfect for students  
 - Simple & clean UI
 
+## 🎯 Use Cases
+
+- Class notes  
+- Exam revision  
+- Daily journal  
+- To-do lists  
+- Project ideas
+  
 ## 🛠 Tech Stack
 
 - Language: Kotlin  
