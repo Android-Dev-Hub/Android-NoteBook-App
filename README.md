@@ -21,6 +21,14 @@ It helps users write, save, edit and manage personal notes easily – completely
 - ⚡ Fast Performance  
 
 ---
+## 🏆 Why NoteBook App?
+
+- Works 100% offline  
+- No ads, no tracking  
+- Very fast note saving  
+- Lightweight app  
+- Perfect for students  
+- Simple & clean UI
 
 ## 🛠 Tech Stack
 
