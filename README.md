@@ -46,6 +46,12 @@ It helps users write, save, edit and manage personal notes easily – completely
 - Database: Room (SQLite)  
 - Minimum SDK: 21 (Android 5.0)  
 
+## 🔒 Privacy & Security
+
+- All notes are stored locally on device  
+- No internet data collection  
+- No account required  
+- Your notes stay private  
 ---
 
 ## 📸 Screenshots
