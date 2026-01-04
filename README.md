@@ -97,6 +97,11 @@ Export to PDF
 
 - LinkedIn: https://www.linkedin.com/in/ishanwalia/
 
+
+## 📥 Download APK
+
+👉 [Download Latest APK](https://github.com/ishanwalia7579/Android-NoteBook-App/releases)
+
 ## ⭐ Support
 
 If you like this project, please give a ⭐ star on GitHub.
