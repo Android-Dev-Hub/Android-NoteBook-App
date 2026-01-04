@@ -30,6 +30,12 @@ It helps users write, save, edit and manage personal notes easily – completely
 - Perfect for students  
 - Simple & clean UI
 
+## ⚡ Performance
+
+- App size < 10 MB  
+- Note save time < 0.2 sec  
+- Battery usage very low
+  
 ## 🎯 Use Cases
 
 - Class notes  
